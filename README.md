@@ -1,2 +1,2 @@
 # Creating_a_chessboard
-Creating a chessboard with swing
+With the java code above you can create a chessboard with swing
